@@ -8,4 +8,4 @@ Can animals be given its essense just by a word?
 
 ![image](/images/hp8080a.png)
 
-If so, how does this appear to the observer that cannot disentange themselves from m.e.?
+If so, how does this appear to the observer that cannot disentangle themselves from m.e.?
