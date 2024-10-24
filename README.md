@@ -6,7 +6,7 @@ Animals given to the state of (bird is the) word
 
 Can animals be given its essense just by a word?
 
-![image](/images/hp8080a.png)
+Of course, but no fancy enterprises!
 
 If so, how does this appear to the observer that cannot disentangle themselves from m.e.?
 
@@ -18,4 +18,5 @@ If so, how does this appear to the observer that cannot disentangle themselves f
 * sci-fi fantasy
 * ne(u)ro
 * biffy
+* alone
 * bleep
