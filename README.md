@@ -21,3 +21,5 @@ If so, how does this appear to the observer that cannot disentangle themselves f
 * alone
 * bleep
 * arctic
+* master
+* blast(er)
