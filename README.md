@@ -26,3 +26,12 @@ If so, how does this appear to the observer that cannot disentangle themselves f
 * guid-47
 * the time that was the beginning of 21 is now
 * SMTWAA
+
+### I Think to Remember
+
+* [hopfield](https://en.wikipedia.org/wiki/Hopfield_network) network of associative memory
+* [hebbian](https://en.wikipedia.org/wiki/Hebbian_theory) learning
+
+Such that it functions as: 
+
+![image](/images/memory-landscape.jpg)
