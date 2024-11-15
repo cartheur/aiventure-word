@@ -28,6 +28,7 @@ If so, how does this appear to the observer that cannot disentangle themselves f
 * SMTWAA
 * I can't remember
 * I don't recall
+* anything at all
 
 ### I Think to Remember
 
