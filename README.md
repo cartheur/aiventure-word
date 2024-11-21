@@ -30,6 +30,7 @@ If so, how does this appear to the observer that cannot disentangle themselves f
 * I don't recall
 * anything at all
 * bird is
+* de
 
 ### I Think to Remember
 
